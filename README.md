@@ -212,7 +212,7 @@
 
 
 
-[![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=suhailkakar&theme=react-dark)](https://github.com/suhailkakar)
+[![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=walf-dev&theme=react-dark)](https://github.com/walf-dev)
 
 
 
