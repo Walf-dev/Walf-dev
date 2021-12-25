@@ -1,13 +1,13 @@
 
-<h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Fredoly Wagni</h1>
+<h1 align="left" id="walfdev-title">:wave: Hello there! I'm Fredoly Wagni</h1>
 <h3 align="left">I am a Software Developer </h3>
 
 
-<a href="#suhailkakar-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhailkakar&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
+<a href="#walf-dev-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=walf-dev&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Fredoly Wagni" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **Nordstone UK**
+- :office: &nbsp;I'm currently working at **Home CM**
 - :seedling: &nbsp;I’m currently learning **[Solidity]**
 - :writing_hand: &nbsp;I regulary write article on my **[blog]**
 - :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
@@ -17,7 +17,7 @@
 
 <br>
 
-<h2 align="left" id="suhailkakar-tech">Favorite Tech</h2>
+<h2 align="left" id="walfdev-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -25,19 +25,19 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#walfdev-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#walfdev-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#walfdev-tech">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
       </a>
       <br>Django
