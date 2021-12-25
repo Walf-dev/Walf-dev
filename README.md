@@ -8,7 +8,7 @@
 </a>
 
 - :office: &nbsp;I'm currently working at **Home CM**
-- :seedling: &nbsp;I’m currently learning **[Solidity]**
+- :seedling: &nbsp;I’m currently learning **[Design]**
 - :writing_hand: &nbsp;I regulary write article on my **[blog]**
 - :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
@@ -205,14 +205,14 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-[linkedin]: https://www.linkedin.com/in/suhailkakar "LinkedIn"
-[twitter]: https://twitter.com/SuhailKakar "Twitter"
-[blog]: http://blog.suhailkakar.com/ "Blog"
-[Solidity]: https://soliditylang.org/ "Solidity"
+[linkedin]: https://www.linkedin.com/in/fredoly-wagni "LinkedIn"
+[twitter]: https://twitter.com/@walfizer "Twitter"
+[blog]: https://fredoly-wagni.hashnode.dev/ "Blog"
+[Design]: https://www.figma.com/ "Figma"
 
 
 
-[![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=walf-dev&theme=react-dark)](https://github.com/walf-dev)
+[![Fredoly's github activity graph](https://activity-graph.herokuapp.com/graph?username=walf-dev&theme=react-dark)](https://github.com/walf-dev)
 
 
 
