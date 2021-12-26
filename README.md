@@ -25,20 +25,19 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#walfdev-tech">
+      <a href="#suhailkakar-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
-    <!--
     <td align="center" width="96">
-      <a href="#walfdev-tech">
+      <a href="#suhailkakar-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#walfdev-tech">
+      <a href="#suhailkakar-tech">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
       </a>
       <br>Django
@@ -55,8 +54,6 @@
       </a>
       <br>TypeScript
     </td>
-
--->
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
@@ -82,14 +79,8 @@
       <br>MongoDB
     </td>
   </tr>
-  <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
+  
   <tr>
-    <!--
     <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
         <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
@@ -114,7 +105,12 @@
       </a>
       <br>Electron
     </td>
-    
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
     <td align="center"  width="96">
       <a href="#suhailkakar-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
@@ -127,45 +123,19 @@
       </a>
       <br>GraphQL
     </td>
-<td align="center" width="96">
-      <a href="#suhailkakar-tech" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-<td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
-<td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
-      </a>
-      <br>Tensorflow
-    </td>
-<td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
-      </a>
-      <br>Flask
-    </td>
-<td align="center" width="96"> 
-      <a href="#suhailkakar-tech" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
--->
     <td align="center" width="96">
       <a href="#suhailkakar-tech" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech" >
+        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
   </tr>
-  
    <tr>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
@@ -173,28 +143,48 @@
       </a>
       <br>TailWind
     </td>
-    
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
       </a>
       <br>Figma
     </td>
-    
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
+      </a>
+      <br>Tensorflow
+    </td>
     <td align="center" width="96">
       <a href="#suhailakar-tech">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
       <br>Material ui
     </td>
-    
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
+      </a>
+      <br>Flask
+    </td>
      <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
     </td>
-          
+          <td align="center" width="96"> 
+      <a href="#suhailkakar-tech" >
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
+      </a>
+      <br>Next JS
+    </td>
              <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
         <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
