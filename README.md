@@ -40,15 +40,15 @@
 -->
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
         <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
       </a>
       <br>Azure
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
