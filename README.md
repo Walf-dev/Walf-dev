@@ -99,13 +99,13 @@
 
 ## ✍️ Latest Articles 
 <!-- BLOG-POST-LIST:START -->
-- [Will launch soon](https://fredoly-wagni.hashnode.dev/)
+- [Will launch soon](https://fredoly.hashnode.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 
 [linkedin]: https://www.linkedin.com/in/fredoly-wagni "LinkedIn"
 [twitter]: https://twitter.com/@walfizer "Twitter"
-[blog]: https://fredoly-wagni.hashnode.dev/ "Blog"
+[blog]: https://fredoly.hashnode.dev/ "Blog"
 [Design]: https://www.figma.com/ "Figma"
 
 
